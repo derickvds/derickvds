@@ -3,7 +3,7 @@
 ## I'm a Web Developer!
 
 - 🥅 2021 Goals: Become the best programmer I can be
-- ⚡ Fun fact: I love gaming and listen music.
+- ⚡ Fun fact: I love gaming and listening to music.
 
 ### Connect with me:
 
